@@ -1,0 +1,44 @@
+#login {
+  text-align:center;
+}
+
+.h1, h1 {
+  text-align:center;
+}
+
+.h2, h2 {
+  text-align:center;
+}
+
+.clean-block.clean-hero h2 {
+}
+
+.clean-block.clean-hero p {
+  color:#ffffff;
+}
+
+@media (min-width: 576px) {
+  .clean-block.clean-hero p {
+    padding:15px;
+  }
+}
+
+.row {
+}
+
+.btn:not(:disabled):not(.disabled) {
+  text-size-adjust:50px;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  text-align:center;
+}
+
+div {
+  text-align:center;
+}
+
+.m-auto {
+  text-align:left;
+}
+
